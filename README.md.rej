@@ -1,7 +1,6 @@
 diff a/README.md b/README.md	(rejected hunks)
-@@ -1 +0,2 @@
+@@ -0,3 +0 @@
 -# gitskill
-\ No newline at end of file
-+# gitskill
-+cc
+ cc
+-dd
 \ No newline at end of file
